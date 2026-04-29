@@ -1,0 +1,38 @@
+{
+  "portal": {
+    "name": "Campus Portal",
+    "sections": [
+      {
+        "category": "Workshops",
+        "items": [
+          {
+            "title": "HTML Basics",
+            "info": {
+              "date": "2026-05-10",
+              "room": "A101"
+            }
+          },
+          {
+            "title": "CSS Basics",
+            "info": {
+              "date": "2026-05-12",
+              "room": "A102"
+            }
+          }
+        ]
+      },
+      {
+        "category": "Events",
+        "items": [
+          {
+            "title": "Open Day",
+            "info": {
+              "date": "2026-05-20",
+              "room": "Main Hall"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
